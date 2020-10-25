@@ -1,2 +1,7 @@
-package Decorator;public class CondimentDecorator {
+package Decorator;
+
+public abstract class CondimentDecorator extends Beverage {
+
+    public abstract String getDescription();
+
 }

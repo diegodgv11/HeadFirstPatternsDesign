@@ -1,4 +1,4 @@
-package Decorator;
+package DecoratorWithSizes;
 
 public class Decaf extends Beverage {
 

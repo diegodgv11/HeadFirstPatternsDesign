@@ -1,4 +1,4 @@
-package Decorator;
+package DecoratorWithSizes;
 
 public class HouseBlend extends Beverage {
 

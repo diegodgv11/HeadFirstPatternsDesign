@@ -1,4 +1,4 @@
-package Decorator;
+package DecoratorWithSizes;
 
 public abstract class Beverage {
     String description = "Unknown Beverage";
@@ -8,4 +8,5 @@ public abstract class Beverage {
     }
 
     public abstract double cost();
+
 }

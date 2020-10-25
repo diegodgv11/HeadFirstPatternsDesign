@@ -1,4 +1,4 @@
-package Decorator;
+package DecoratorWithSizes;
 
 public class Whip extends CondimentDecorator {
     Beverage beverage;

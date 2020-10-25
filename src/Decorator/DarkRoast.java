@@ -1,2 +1,14 @@
-package Decorator;public class DarkRoast {
+package Decorator;
+
+public class DarkRoast extends Beverage {
+    
+    public DarkRoast() {
+        description = "Dark Roast Coffee";
+    }
+
+    @Override
+    public double cost() {
+        return 0.99;
+    }
+
 }
